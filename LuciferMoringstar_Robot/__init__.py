@@ -15,7 +15,8 @@ Basic Commads
 
 /start :- check am Alive
 
-Bot Owner Only
+Bot Owner Only 
+
 /broadcast Replay Any Message or Media
 /stats user Status
 /ban_user  click ban_user more info
@@ -28,13 +29,11 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥⭕️ CHANNELS ⭕️: @CLMRG
     
-➥ Creator : [Naughty PROFESSOR](www.youtube.com/C/NaughtyPROFESSOR)
+➥ 🏅 GROUP 🏅: @CINEMA_LOKAM_MOVIE_REQUEST_GROUP
 
-➥ Language : Python3
+➥ 🌀Creator🌀 : @Shamilmalik_10
 
-➥ Library : Pyrogram Asyncio 1.13.0
-
-➥ Tutorial : [Click Me]()
+➥ 🎯MY OWNER YOUTUBE CHANNEL🎯: [GAMINGwithSHAMIL](https://youtube.com/channel/UCMNEfWvTQXn4BEgNwBxtctA)
 """
