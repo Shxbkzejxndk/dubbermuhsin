@@ -84,7 +84,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🎖 PLAYit MOVIES 🎖', url='https://t.me/joinchat/GsN4C3tW24AxMmE1')
+                        InlineKeyboardButton('My Developer👨‍🔬', url='https://t.me/Shamilmalik_10')
                     ]
                     ]
                 await bot.send_cached_media(
@@ -117,8 +117,7 @@ async def start(bot, message):
                 [[
                 InlineKeyboardButton("My Developer👨‍🔬", url='https://t.me/Shamilmalik_10')
                 ],[
-                InlineKeyboardButton("⭕️CHANNEL⭕️", url='https://t.me/joinchat/0B7v3NByJNQ5MGVl'),
-                InlineKeyboardButton("🏅GROUP🏅", url='https://t.me/joinchat/X9hGQQb8zdAzN2U1')
+                InlineKeyboardButton("MALAYALAM TAMIL MOVIES 🎥", url='https://t.me/mastar12')
                 ]]
             )
         )
@@ -331,7 +330,7 @@ async def bot_info(bot, message):
     buttons = [
         [
             
-            InlineKeyboardButton('🎨POSTER ART WORK🎨', url='https://t.me/C_L_P_A_W')
+            InlineKeyboardButton('💖 CL DUBS ', url='https://t.me/CL_DUBS')
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
