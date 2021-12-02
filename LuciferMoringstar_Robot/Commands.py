@@ -117,7 +117,7 @@ async def start(bot, message):
                 [[
                 InlineKeyboardButton("My Developer👨‍🔬", url='https://t.me/Shamilmalik_10')
                 ],[
-                InlineKeyboardButton("MALAYALAM TAMIL MOVIES 🎥", url='https://t.me/mastar12')
+                InlineKeyboardButton("MALAYALAM TAMIL MOVIES 🎥", url='https://t.me/mastar1234')
                 ]]
             )
         )
